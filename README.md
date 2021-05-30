@@ -3,11 +3,15 @@ Query: To write Python code to create a function called most_frequent that takes
 
 Sample Input & output:
 
-Input : Please enter a string 
+Input :- 
+ 
+        Please enter a string 
 
         Mississippi
 
-Output : i = 4 
+Output :-
+
+         i = 4 
 
          s = 4 
           
